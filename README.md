@@ -3,7 +3,7 @@
 Projeto desenvolvido pelo curso [JavaScript para Web: Crie páginas dinâmicas](https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas), na plataforma da **[Alura](https://alura.com.br/)**.
 
 ## Sobre o projeto
-Foi criado um Midi com sons e dinamismo para escutarmos as teclas - seja por um clique no mouse ou pela barra de espaço apertada! Curso ministrado por **[Vanessa Tonini](https://cursos.alura.com.br/user/vanessametonini)**.
+Foi criado um Midi com sons e dinamismo para escutarmos as teclas - seja por um clique no mouse ou pela barra de espaço apertada! Curso ministrado por [Vanessa Tonini](https://cursos.alura.com.br/user/vanessametonini).
 
 ## Ao longo do projeto, as seguintes habilidades foram desenvolvidas:
 - Comando `controls` a tag `audio` para mostrar o player no navegador;
